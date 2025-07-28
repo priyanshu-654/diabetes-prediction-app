@@ -50,3 +50,11 @@ pip install -r requirements.txt
 Run the App:
 streamlit run app.py
 
+App Predicted Output:
+<img width="647" height="841" alt="image" src="https://github.com/user-attachments/assets/864d8ea2-4897-4a8c-bc80-5c8af14f45eb" />
+
+🙋‍♂️ Author
+Priyanshu Pandey
+
+
+
