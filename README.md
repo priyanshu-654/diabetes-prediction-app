@@ -37,6 +37,20 @@ BMI
 Diabetes Pedigree Function
 Age
 
+
+🧪 Full Working Flow of Your App:
+
+User Inputs → Streamlit Widgets (UI)
+             ↓
+       Form Collected
+             ↓
+   Call predict_diabetes() in Python
+             ↓
+  ML Model (KNN / DT / MLP) gives result
+             ↓
+     Output shown on Streamlit UI
+
+
 Install Dependencies:
 pip install -r requirements.txt
 
