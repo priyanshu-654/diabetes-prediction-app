@@ -37,18 +37,18 @@ BMI
 Diabetes Pedigree Function
 Age
 
+Install Dependencies:
+pip install -r requirements.txt
+
+Run the App:
+streamlit run app.py
+
 📦 diabetes-prediction-app/
 ├── app.py                  # Main Streamlit frontend
 ├── diabetes_model.py       # ML logic and model training
 ├── diabetes.csv            # Pima Indians dataset
 ├── requirements.txt        # Python dependencies
 └── README.md               # Project documentation
-
-Install Dependencies:
-pip install -r requirements.txt
-
-Run the App:
-streamlit run app.py
 
 
 
@@ -61,7 +61,7 @@ streamlit run app.py
 App Predicted Output:
 <img width="647" height="841" alt="image" src="https://github.com/user-attachments/assets/864d8ea2-4897-4a8c-bc80-5c8af14f45eb" />
 
-🙋‍♂️ Author
+🙋‍♂️ Author:
 Priyanshu Pandey
 
 
