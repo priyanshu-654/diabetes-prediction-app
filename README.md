@@ -58,12 +58,14 @@ pip install -r requirements.txt
 Run the App:
 streamlit run app.py
 
+
 📦 diabetes-prediction-app/
-├── app.py                  # Main Streamlit frontend
-├── diabetes_model.py       # ML logic and model training
-├── diabetes.csv            # Pima Indians dataset
-├── requirements.txt        # Python dependencies
-└── README.md               # Project documentation
+├── app.py                # Main Streamlit frontend
+├── diabetes_model.py     # ML logic and model training
+├── diabetes.csv          # Pima Indians dataset
+├── requirements.txt      # Python dependencies
+└── README.md             # Project documentation
+
 
 
 
