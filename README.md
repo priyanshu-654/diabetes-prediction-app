@@ -5,15 +5,13 @@ A Machine Learning web application that predicts the likelihood of diabetes base
 🔍 Overview
 
 This project helps users determine whether a person is diabetic or not by inputting standard health parameters. It's ideal for learning applied machine learning, working with medical datasets, and deploying real-world data apps.
-
 | Component        | Description                             |
 | ---------------- | --------------------------------------- |
 | 💻 Frontend      | Streamlit (Python-based Web UI)         |
 | 🤖 ML Models     | KNN, Decision Tree, MLP Classifier      |
-| 🧠 Preprocessing | StandardScaler from sklearn             |
+| 🧠 Preprocessing | StandardScaler from scikit-learn        |
 | 📊 Dataset       | Pima Indians Diabetes Dataset (Kaggle)  |
-| 📁 Tools         | Pandas, NumPy, Matplotlib, Scikit-learn |
-
+| 📁 Tools         | Pandas, NumPy, Matplotlib, scikit-learn |
 
 📈 Features
 
@@ -80,6 +78,7 @@ App Predicted Output:
 
 🙋‍♂️ Author:
 Priyanshu Pandey
+
 
 
 
